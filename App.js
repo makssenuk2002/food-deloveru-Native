@@ -10,8 +10,6 @@ const Stack = createStackNavigator()
 
 const App = () => {
     const [isReady, setIsReady] = useState(false)
-
- 
     return (
         <NavigationContainer>
             <Stack.Navigator

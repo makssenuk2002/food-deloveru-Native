@@ -80,7 +80,7 @@ const CustomTabBar = (props) => {
                         left: 0,
                         right: 0,
                         height: 30,
-                        backgroundColor: COLORS.white
+                        backgroundColor: 'red'
                     }}
                 ></View>
                 <BottomTabBar
